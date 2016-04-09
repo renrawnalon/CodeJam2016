@@ -3,5 +3,6 @@
     <pages>
         <page name='CountingSheep'/>
         <page name='RevengeOfThePancakes'/>
+        <page name='CoinJam'/>
     </pages>
 </playground>
