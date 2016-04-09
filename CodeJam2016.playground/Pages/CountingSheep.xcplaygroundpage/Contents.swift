@@ -14,9 +14,9 @@ func toInts(acc: [Int], next: String) -> [Int] {
 }
 
 func main() {
-    let inputFileName = "countSheepInput.txt"
+    let inputFileName = "A-large.in"
     let inputFilePath = XCPlaygroundSharedDataDirectoryURL.URLByAppendingPathComponent(inputFileName)
-    let outputFileName = "countSheepOutput.txt"
+    let outputFileName = "A-large.out"
     let outputFilePath = XCPlaygroundSharedDataDirectoryURL.URLByAppendingPathComponent(outputFileName)
     let contents: String?
     
